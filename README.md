@@ -44,11 +44,6 @@ if(result== -1):
 else:
     print(array)
     print("Element found at index: ",result)
-
-
-
-
-
 ```
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 ```
@@ -77,14 +72,6 @@ if(result == -1):
 else:
     print(array)
     print("Element found at index: ", result)
-
-
-
-
-
-
-
-
 
 ```
 iii)	# Find the element in a list using Binary Search (recursive Method).
@@ -116,21 +103,19 @@ if(result==-1):
 else:
     print(array)
     print("Element found at index: ",result)
-
-
-
-
-
-
-
-
-
-
 ```
-## Sample Input:
-![Alt text](image.png)
 
-## Output:
+
+## Sample Input  
+![image](https://github.com/Ajith1413/Search-Algorithm/assets/139842524/4f10804c-d326-4bfb-96c0-88db774d215d)
+![image](https://github.com/Ajith1413/Search-Algorithm/assets/139842524/24ad792d-83c9-45fe-8452-b8ed3cdef654)
+![image](https://github.com/Ajith1413/Search-Algorithm/assets/139842524/8d4ce344-51e0-40ee-b00b-0fcff4ea24cf)
+
+
+
+
+## Output
+>>>>>>> 8e00a4360e5c14c35cb9b0b940d91bc447865419
 ![image](https://github.com/Ajith1413/Search-Algorithm/assets/139842524/be2ca0c1-3ced-472d-8962-f9f9fe0b2792)
 ![image](https://github.com/Ajith1413/Search-Algorithm/assets/139842524/144e76bf-4bc8-408b-bfcd-96617de902e1)
 ![image](https://github.com/Ajith1413/Search-Algorithm/assets/139842524/ab9a3397-88e4-4d71-9c76-965bdb77889a)
