@@ -115,7 +115,6 @@ else:
 
 
 ## Output
->>>>>>> 8e00a4360e5c14c35cb9b0b940d91bc447865419
 ![image](https://github.com/Ajith1413/Search-Algorithm/assets/139842524/be2ca0c1-3ced-472d-8962-f9f9fe0b2792)
 ![image](https://github.com/Ajith1413/Search-Algorithm/assets/139842524/144e76bf-4bc8-408b-bfcd-96617de902e1)
 ![image](https://github.com/Ajith1413/Search-Algorithm/assets/139842524/ab9a3397-88e4-4d71-9c76-965bdb77889a)
